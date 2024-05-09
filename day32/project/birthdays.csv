@@ -1,0 +1,4 @@
+name,email,year,month,day
+example,example@email.com,1881,02,02
+test1,test_1@email.com,2000,12,12
+test2,test_2@email.com,2001,01,01

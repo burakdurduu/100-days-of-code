@@ -145,3 +145,7 @@
 ##### --> [learngitbranching.js.org](https://learngitbranching.js.org/)
 ##### --> [terminal-mac-cheatsheet](https://github.com/appbrewery/terminal-mac-cheatsheet/blob/master/README.markdown#english-version)
 ##### --> [git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
+### Day 71 - Blog Web Application
+##### --> [Blog Web App](https://github.com/burakdurduu/blog-web-app)
+### Day 72 - Data Exploration with Pandas: College Major v.s. Your Salary
+##### --> [Day 72](https://github.com/burakdurduu/100-days-of-code/tree/main/day72)

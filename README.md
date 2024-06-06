@@ -149,3 +149,5 @@
 ##### --> [Blog Web App](https://github.com/burakdurduu/blog-web-app)
 ### Day 72 - Data Exploration with Pandas: College Major v.s. Your Salary
 ##### --> [Day 72](https://github.com/burakdurduu/100-days-of-code/tree/main/day72)
+### Day 72 - Data Visualisation with Matplotlib: Programming Languages
+##### --> [Day 73](https://github.com/burakdurduu/100-days-of-code/tree/main/day73)

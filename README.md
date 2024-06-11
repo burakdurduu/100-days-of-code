@@ -153,3 +153,5 @@
 ##### --> [Day 73](https://github.com/burakdurduu/100-days-of-code/tree/main/day73)
 ### Day 74 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
 ##### --> [Day 74](https://github.com/burakdurduu/100-days-of-code/tree/main/day74)
+### Day 75 - Google Trends Data: Resampling and Visualising Time Series
+##### --> [Day 75](https://github.com/burakdurduu/100-days-of-code/tree/main/day75)

@@ -155,3 +155,7 @@
 ##### --> [Day 74](https://github.com/burakdurduu/100-days-of-code/tree/main/day74)
 ### Day 75 - Google Trends Data: Resampling and Visualising Time Series
 ##### --> [Day 75](https://github.com/burakdurduu/100-days-of-code/tree/main/day75)
+### Day 76 - Beautiful Plotly Charts & Analysing the Android App Store
+##### --> [Day 76](https://github.com/burakdurduu/100-days-of-code/tree/main/day76)
+### Day 77 - Computation with NumPy and N-Dimensional Arrays
+##### --> [Day 77](https://github.com/burakdurduu/100-days-of-code/tree/main/day77)

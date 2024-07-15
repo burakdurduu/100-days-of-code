@@ -159,3 +159,5 @@
 ##### --> [Day 76](https://github.com/burakdurduu/100-days-of-code/tree/main/day76)
 ### Day 77 - Computation with NumPy and N-Dimensional Arrays
 ##### --> [Day 77](https://github.com/burakdurduu/100-days-of-code/tree/main/day77)
+### Day 78 - Linear Regression and Data Visualisation with Seaborn
+##### --> [Day 78](https://github.com/burakdurduu/100-days-of-code/tree/main/day78)

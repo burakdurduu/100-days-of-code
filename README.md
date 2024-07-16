@@ -161,3 +161,5 @@
 ##### --> [Day 77](https://github.com/burakdurduu/100-days-of-code/tree/main/day77)
 ### Day 78 - Linear Regression and Data Visualisation with Seaborn
 ##### --> [Day 78](https://github.com/burakdurduu/100-days-of-code/tree/main/day78)
+### Day 79 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+##### --> [Day 79](https://github.com/burakdurduu/100-days-of-code/tree/main/day79)

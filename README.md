@@ -165,3 +165,7 @@
 ##### --> [Day 79](https://github.com/burakdurduu/100-days-of-code/tree/main/day79)
 ### Day 80 - The Tragic Discovery of Handwashing: t-Tests & Distributions
 ##### --> [Day 80](https://github.com/burakdurduu/100-days-of-code/tree/main/day80)
+### Day 81 - Capstone Project - Predict House Prices
+##### --> [Day 81](https://github.com/burakdurduu/100-days-of-code/tree/main/day81)
+### Day 82 - Professional Portfolio Project - Python Scripting
+##### --> [Morse Code Converter](https://github.com/burakdurduu/100-days-of-code/tree/main/day82)

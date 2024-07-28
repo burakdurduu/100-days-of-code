@@ -172,4 +172,6 @@
 ### Day 83 - Professional Portfolio Project - Python Web Development - Standby
 ##### --> [Day 83](https://github.com/burakdurduu/100-days-of-code/tree/main/blog-web-app)
 ### Day 84 - Professional Portfolio Project - Python Scripting
-##### --> [Tic Tac Toe Project](https://github.com/burakdurduu/100-days-of-code/tree/main/day84)
+##### --> [Tic Tac Toe Project](https://github.com/burakdurduu/100-days-of-code/tree/main/day85)
+### Day 85 - Professional Portfolio Project - Python Scripting
+##### --> [Image Watermaking Desktop App](https://github.com/burakdurduu/100-days-of-code/tree/main/day85)

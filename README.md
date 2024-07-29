@@ -30,7 +30,7 @@
 ##### --> [Higher Lower Game](https://github.com/burakdurduu/100-days-of-code/tree/main/day14)
 ### Day 15 - Local Development Environment Setup & the Coffee Machine
 ##### --> [Coffee Machine](https://github.com/burakdurduu/100-days-of-code/tree/main/day15)
-### Day 16 - Object Oriented Programming (OOP)
+### Day 16 - Object-Oriented Programming (OOP)
 ##### --> [OOP Coffee Machine](https://github.com/burakdurduu/100-days-of-code/tree/main/day16)
 ### Day 17 - The Quiz Project & the Benefits of OOP
 ##### --> [Quiz](https://github.com/burakdurduu/100-days-of-code/tree/main/day17)
@@ -133,7 +133,7 @@
 ##### --> [Canva](https://www.canva.com/)
 ##### --> [Collectui](https://collectui.com/)
 ### Day 66 - Building Your Own API with RESTful Routing
-##### --> [Cafe & Wifi API](https://github.com/burakdurduu/100-days-of-code/tree/main/day66)
+##### --> [Cafe & Wi-Fi API](https://github.com/burakdurduu/100-days-of-code/tree/main/day66)
 ##### --> [Postman Documentation](https://documenter.getpostman.com/view/34411839/2sA3BoaWyh)
 ### Day 67 - Blog Capstone Project Part 3 - RESTful Routing
 ##### --> [Blog Capstone Project Part 3](https://github.com/burakdurduu/100-days-of-code/tree/main/day67)
@@ -141,7 +141,7 @@
 ##### --> [Flask Authentication](https://github.com/burakdurduu/100-days-of-code/tree/main/day68)
 ### Day 69 - Blog Capstone Project Part 4 - Adding Users
 ##### --> [Blog Capstone Project Part 4](https://github.com/burakdurduu/100-days-of-code/tree/main/day69)
-### Day 70 - Git, Github and Version Control
+### Day 70 - Git, GitHub and Version Control
 ##### --> [learngitbranching.js.org](https://learngitbranching.js.org/)
 ##### --> [terminal-mac-cheatsheet](https://github.com/appbrewery/terminal-mac-cheatsheet/blob/master/README.markdown#english-version)
 ##### --> [git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -170,8 +170,12 @@
 ### Day 82 - Professional Portfolio Project - Python Scripting
 ##### --> [Morse Code Converter](https://github.com/burakdurduu/100-days-of-code/tree/main/day82)
 ### Day 83 - Professional Portfolio Project - Python Web Development - Standby
-##### --> [Day 83](https://github.com/burakdurduu/100-days-of-code/tree/main/blog-web-app)
+##### --> [](https://github.com/burakdurduu/100-days-of-code/tree/main/day83)
 ### Day 84 - Professional Portfolio Project - Python Scripting
 ##### --> [Tic Tac Toe Project](https://github.com/burakdurduu/100-days-of-code/tree/main/day84)
 ### Day 85 - Professional Portfolio Project - Python Scripting
 ##### --> [Image Watermaking Desktop App](https://github.com/burakdurduu/100-days-of-code/tree/main/day85)
+### Day 86 - Professional Portfolio Project - GUI - Standby
+##### --> [](https://github.com/burakdurduu/100-days-of-code/tree/main/day86)
+### Day 87 - Professional Portfolio Project - Game
+##### --> [Breakout Game](https://github.com/burakdurduu/100-days-of-code/tree/main/day87)

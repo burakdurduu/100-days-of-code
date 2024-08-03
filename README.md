@@ -175,7 +175,7 @@
 ##### --> [Tic Tac Toe Project](https://github.com/burakdurduu/100-days-of-code/tree/main/day84)
 ### Day 85 - Professional Portfolio Project - Python Scripting
 ##### --> [Image Watermaking Desktop App](https://github.com/burakdurduu/100-days-of-code/tree/main/day85)
-### Day 86 - Professional Portfolio Project - GUI - Standby
-##### --> [](https://github.com/burakdurduu/100-days-of-code/tree/main/day86)
+### Day 86 - Professional Portfolio Project - GUI
+##### --> [Typing Speed Test App](https://github.com/burakdurduu/100-days-of-code/tree/main/day86)
 ### Day 87 - Professional Portfolio Project - Game
 ##### --> [Breakout Game](https://github.com/burakdurduu/100-days-of-code/tree/main/day87)
